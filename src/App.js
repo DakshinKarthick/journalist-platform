@@ -8,7 +8,6 @@ const CONTRACT_ADDRESS = "0xd9145CCE52D386f254917e481eB44e9943F39138";
 
 // This ABI matches the JournalistRecord contract 
 const CONTRACT_ABI = [
-[
 	{
 		"inputs": [
 			{
@@ -96,7 +95,6 @@ const CONTRACT_ABI = [
 		"stateMutability": "view",
 		"type": "function"
 	}
-]
 ];
 // ---------------------------------------------------
 
